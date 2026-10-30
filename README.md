@@ -92,3 +92,5 @@ Solution: Access the application using http://localhost:8080 instead, which maps
 ## 6. Your YAML vs the generated YAML
 
 Name two fields in the `--dry-run=client -o yaml` output that were not in your file. Why does your file still work without them?
+loadBalancer: {}
+resources: {}
